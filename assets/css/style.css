@@ -97,11 +97,18 @@ body {
   
   #hero h3 {
 	color: #fff;
+	-webkit-text-stroke: 1px black;
 	font-size: 30px;
   }
 
   #hero h4 {
 	color: #fff;
+	padding-bottom: 12px;
+  }
+
+  #hero p {
+	color: #fff;
+	-webkit-text-stroke: 0.8px black;
 	padding-bottom: 12px;
   }
  
